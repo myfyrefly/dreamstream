@@ -1,7 +1,7 @@
 # dreamstream
 
-## Dreamstream is a blog type app that was inspired by Google Deep Dream API.
-## It serves as a place for users share their dreams and include an image from Pixabay API so that other users can view and interpret their dreams.
+**Dreamstream is a blog type app that was inspired by Google Deep Dream API.**
+**It serves as a place for users share their dreams and include an image from Pixabay API so that other users can view and interpret their dreams.**
 
 # USER STORY
 AS a person who is enthusiastic about dreams,
